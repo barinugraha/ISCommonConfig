@@ -1,0 +1,15 @@
+<root>
+	<GlobalVariable>
+		<JALIN_KEYSTORE>JALIN_KEYSTORE_A</JALIN_KEYSTORE>
+		<JALIN_KEYSTORE_ALIAS>api.privateopen.bri.co.id</JALIN_KEYSTORE_ALIAS>
+		<JALIN_OUT_HIMBARA_KEY>8888</JALIN_OUT_HIMBARA_KEY>
+		<JALIN_OUT_KEYSTORE>JALIN_KEYSTORE_B</JALIN_OUT_KEYSTORE>
+		<!--<JALIN_OUT_KEYSTORE_ALIAS>api.privateopen.bri.co.id</JALIN_OUT_KEYSTORE_ALIAS>-->
+		<JALIN_OUT_SECRET_KEY>arinugraha</JALIN_OUT_SECRET_KEY>		
+		<JALIN_SECRET_KEY_Jalin>jln1</JALIN_SECRET_KEY_Jalin>
+		<JALIN_SECRET_KEY_jalin01>jln2</JALIN_SECRET_KEY_jalin01>
+	</GlobalVariable>
+    <Cache>
+        <ClientName>123</ClientName>
+    </Cache>
+</root>
