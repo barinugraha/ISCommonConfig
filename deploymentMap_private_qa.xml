@@ -7,7 +7,7 @@
 		<!--<JALIN_OUT_KEYSTORE_ALIAS>api.privateopen.bri.co.id</JALIN_OUT_KEYSTORE_ALIAS>-->
 		<JALIN_OUT_SECRET_KEY>arinugraha</JALIN_OUT_SECRET_KEY>		
 		<JALIN_SECRET_KEY_Jalin>jln1</JALIN_SECRET_KEY_Jalin>
-		<JALIN_SECRET_KEY_jalin01>jln2</JALIN_SECRET_KEY_jalin01>
+		<!--<JALIN_SECRET_KEY_jalin01>jln2</JALIN_SECRET_KEY_jalin01>-->
 	</GlobalVariable>
     <Cache>
         <ClientName>123</ClientName>
